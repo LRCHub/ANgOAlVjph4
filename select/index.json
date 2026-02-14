@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "#レーッツパーリー",
+  "base_artist": "PAIN",
+  "createdAt": "2026-02-14T02:24:19.742052Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "#レーッツパーリー",
+      "artist": "PAIN, リルジャップ",
+      "has_synced": false,
+      "path": "select/pl_01_レーッツパーリー_PAIN,_リルジャップ.txt"
+    }
+  ]
+}
